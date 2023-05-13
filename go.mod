@@ -1,3 +1,3 @@
-module jordanc.net/edit-last-file-2
+module github.com/jc0der23/dirwalk
 
 go 1.18
